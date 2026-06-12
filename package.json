@@ -1,0 +1,30 @@
+{
+  "name": "@gasoji/gas-tools",
+  "version": "0.1.0",
+  "description": "Free Google Apps Script tools from Gasおじラボ.",
+  "license": "SEE LICENSE IN LICENSE-SCOPE.md",
+  "type": "commonjs",
+  "files": [
+    "README.md",
+    "LICENSE-SCOPE.md",
+    "drive-file-list-free/"
+  ],
+  "keywords": [
+    "google-apps-script",
+    "gas",
+    "google-drive",
+    "spreadsheet",
+    "gasoji"
+  ],
+  "homepage": "https://github.com/gasoji-tools/gas-tools#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gasoji-tools/gas-tools.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gasoji-tools/gas-tools/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
