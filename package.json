@@ -1,6 +1,6 @@
 {
   "name": "@gasoji/gas-tools",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Free Google Apps Script tools from Gasおじラボ.",
   "license": "SEE LICENSE IN LICENSE-SCOPE.md",
   "type": "commonjs",
@@ -14,7 +14,8 @@
     "attendance-management-free/",
     "kanban-board-free/",
     "crm-management-free/",
-    "review-management-free/"
+    "review-management-free/",
+    "mini-shop-order-tracker-free/"
   ],
   "keywords": [
     "google-apps-script",
