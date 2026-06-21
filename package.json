@@ -1,6 +1,6 @@
 {
   "name": "@gasoji/gas-tools",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Free Google Apps Script tools from Gasおじラボ.",
   "license": "SEE LICENSE IN LICENSE-SCOPE.md",
   "type": "commonjs",
